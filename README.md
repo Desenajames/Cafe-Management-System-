@@ -38,7 +38,6 @@ This project can be improved further by adding:
 
 - 💳 Payment system simulation (cash/card methods)
 - 🗂️ Saving orders to a file or database
-- 🖥️ Graphical User Interface (GUI using Tkinter or PyQt)
 - 🌐 Web version using Flask or Django
 - 🍔 Category-based menu (drinks, food, desserts)
 - 🧾 Discount and tax calculation system
